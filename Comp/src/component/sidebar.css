@@ -1,0 +1,40 @@
+  
+  .heae{
+    height: 100%; 
+  width: 17%; 
+  position: fixed; 
+  padding: 0;
+  z-index: 1; 
+  top: 12.5%; 
+  left: 0;
+  background-color: #111;
+  padding-top: 60px; 
+    transition: 0.5s;
+
+  }
+
+  .sidenav p {
+    padding: 8px 8px 8px 32px;
+    font-size: 25px;
+  }
+  
+   
+  .iocn{
+   font-size: 20px;
+  text-decoration: none;
+  position: fixed; 
+  padding:0 ;
+  top:10px; 
+  left:2%;
+  }
+
+  .back{
+    height: 20%;
+    background-color:red;
+    width: 17%; 
+    text-decoration: none;
+    position: fixed; 
+    padding:0 ;
+    top: -20px; 
+    left:0%;
+  }
